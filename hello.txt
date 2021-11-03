@@ -8,3 +8,4 @@ gaigaigai
 +22
 远程库改
 ssh协议传输
+本地http上传
